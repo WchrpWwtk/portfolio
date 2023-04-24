@@ -1,2 +1,3 @@
 # portfolio
-Portfolio project
+
+Portfolio project using Vite, React, Typescript
